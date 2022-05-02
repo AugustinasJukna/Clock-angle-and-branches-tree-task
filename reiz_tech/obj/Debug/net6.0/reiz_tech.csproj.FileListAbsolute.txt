@@ -1,0 +1,15 @@
+C:\Users\augus\source\repos\reiz_tech\bin\Debug\net6.0\reiz_tech.exe
+C:\Users\augus\source\repos\reiz_tech\bin\Debug\net6.0\reiz_tech.deps.json
+C:\Users\augus\source\repos\reiz_tech\bin\Debug\net6.0\reiz_tech.runtimeconfig.json
+C:\Users\augus\source\repos\reiz_tech\bin\Debug\net6.0\reiz_tech.dll
+C:\Users\augus\source\repos\reiz_tech\bin\Debug\net6.0\reiz_tech.pdb
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.csproj.AssemblyReference.cache
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.AssemblyInfoInputs.cache
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.AssemblyInfo.cs
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.dll
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\refint\reiz_tech.dll
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.pdb
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\reiz_tech.genruntimeconfig.cache
+C:\Users\augus\source\repos\reiz_tech\obj\Debug\net6.0\ref\reiz_tech.dll
